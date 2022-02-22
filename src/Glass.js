@@ -2,7 +2,6 @@ import React from "react";
 import Content from "./Content";
 import "./Glass.css";
 import Nav from "./Nav";
-import Photo from "./Photo";
 
 function glass() {
   return (
@@ -11,7 +10,6 @@ function glass() {
         <div className="container">
           <Nav />
           <Content />
-          {/* <Photo /> */}
         </div>
       </div>
     </>

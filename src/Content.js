@@ -4,6 +4,7 @@ import ChevronRightOutlinedIcon from "@mui/icons-material/ChevronRightOutlined";
 import Fruitimg from "./—Pngtree—lychee fruit cartoon lychee red_3814195.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { SmoothProvider } from "react-smooth-scrolling";
 
 function Content() {
   useEffect(() => {
