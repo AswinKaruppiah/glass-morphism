@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  margin: 0;
+  background-image: url("./wp6557471-fruits-4k-hd-wallpapers.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.container {
+  overflow: hidden;
+  color: azure;
+  height: 92vh;
+  width: 90%;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  backdrop-filter: blur(4px);
+}
+.hold {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

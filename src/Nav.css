@@ -1,0 +1,32 @@
+h2 {
+  font-family: myfont;
+  float: left;
+  margin: -10px;
+  margin-right: 2px;
+  font-size: 35px;
+  letter-spacing: 5px;
+}
+.navitem {
+  float: right;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.navbar {
+  margin: 20px 50px;
+}
+.item {
+  font-family: myfont;
+  letter-spacing: 2px;
+  font-size: 20px;
+  margin-left: 50px;
+}
+.vl {
+  border-left: 3px solid rgb(255, 255, 255);
+  height: 40px;
+  margin-left: 50px;
+}
+@font-face {
+  font-family: myfont;
+  src: url("./Sweet\ Affogato.ttf");
+}
