@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/glass-morphism/static/css/main.206aa6fb.css",
+    "main.css": "/glass-morphism/static/css/main.c565230a.css",
     "main.js": "/glass-morphism/static/js/main.238ae1e7.js",
     "static/media/wp6557471-fruits-4k-hd-wallpapers.jpg": "/glass-morphism/static/media/wp6557471-fruits-4k-hd-wallpapers.fad2e6bb9addb228fc4a.jpg",
     "static/media/—Pngtree—lychee fruit cartoon lychee red_3814195.png": "/glass-morphism/static/media/—Pngtree—lychee fruit cartoon lychee red_3814195.471189fd69463786afd9.png",
@@ -8,11 +8,11 @@
     "static/media/Juicy Fruity Plain.otf": "/glass-morphism/static/media/Juicy Fruity Plain.fc6f4f217351d6096ca4.otf",
     "static/media/FreshFruitsFreshFruits-rPV9.otf": "/glass-morphism/static/media/FreshFruitsFreshFruits-rPV9.9c9205de4edaf3b91d03.otf",
     "index.html": "/glass-morphism/index.html",
-    "main.206aa6fb.css.map": "/glass-morphism/static/css/main.206aa6fb.css.map",
+    "main.c565230a.css.map": "/glass-morphism/static/css/main.c565230a.css.map",
     "main.238ae1e7.js.map": "/glass-morphism/static/js/main.238ae1e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.206aa6fb.css",
+    "static/css/main.c565230a.css",
     "static/js/main.238ae1e7.js"
   ]
 }
