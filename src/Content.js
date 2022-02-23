@@ -4,11 +4,11 @@ import ChevronRightOutlinedIcon from "@mui/icons-material/ChevronRightOutlined";
 import Fruitimg from "./kisspng-online-shopping-mobile-shop-5b50b17cd0dfc6.2778564915320149728556.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { SmoothProvider } from "react-smooth-scrolling";
+// import { SmoothProvider } from "react-smooth-scrolling";
 
 function Content() {
   useEffect(() => {
-    AOS.init({ duration: 1000 });
+    AOS.init({ duration: 1500 });
   });
   return (
     <>
