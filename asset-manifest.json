@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/glass-morphism/static/css/main.e0edcce5.css",
-    "main.js": "/glass-morphism/static/js/main.238ae1e7.js",
+    "main.css": "/glass-morphism/static/css/main.2529f5f1.css",
+    "main.js": "/glass-morphism/static/js/main.f14d4c38.js",
     "static/media/wp6557471-fruits-4k-hd-wallpapers.jpg": "/glass-morphism/static/media/wp6557471-fruits-4k-hd-wallpapers.fad2e6bb9addb228fc4a.jpg",
-    "static/media/—Pngtree—lychee fruit cartoon lychee red_3814195.png": "/glass-morphism/static/media/—Pngtree—lychee fruit cartoon lychee red_3814195.471189fd69463786afd9.png",
+    "static/media/kisspng-online-shopping-mobile-shop-5b50b17cd0dfc6.png": "/glass-morphism/static/media/kisspng-online-shopping-mobile-shop-5b50b17cd0dfc6.2778564915320149728556.ff1d66784291a20a39ce.png",
     "static/media/Sweet Affogato.ttf": "/glass-morphism/static/media/Sweet Affogato.116737b06a602cc1b57f.ttf",
     "static/media/Juicy Fruity Plain.otf": "/glass-morphism/static/media/Juicy Fruity Plain.fc6f4f217351d6096ca4.otf",
     "static/media/FreshFruitsFreshFruits-rPV9.otf": "/glass-morphism/static/media/FreshFruitsFreshFruits-rPV9.9c9205de4edaf3b91d03.otf",
     "index.html": "/glass-morphism/index.html",
-    "main.e0edcce5.css.map": "/glass-morphism/static/css/main.e0edcce5.css.map",
-    "main.238ae1e7.js.map": "/glass-morphism/static/js/main.238ae1e7.js.map"
+    "main.2529f5f1.css.map": "/glass-morphism/static/css/main.2529f5f1.css.map",
+    "main.f14d4c38.js.map": "/glass-morphism/static/js/main.f14d4c38.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0edcce5.css",
-    "static/js/main.238ae1e7.js"
+    "static/css/main.2529f5f1.css",
+    "static/js/main.f14d4c38.js"
   ]
 }
