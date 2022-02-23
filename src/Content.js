@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "./Content.css";
 import ChevronRightOutlinedIcon from "@mui/icons-material/ChevronRightOutlined";
-import Fruitimg from "./—Pngtree—lychee fruit cartoon lychee red_3814195.png";
+import Fruitimg from "./kisspng-online-shopping-mobile-shop-5b50b17cd0dfc6.2778564915320149728556.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { SmoothProvider } from "react-smooth-scrolling";
