@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/glass-morphism/static/css/main.2529f5f1.css",
+    "main.css": "/glass-morphism/static/css/main.dfd7ee3f.css",
     "main.js": "/glass-morphism/static/js/main.ea768cb1.js",
     "static/media/wp6557471-fruits-4k-hd-wallpapers.jpg": "/glass-morphism/static/media/wp6557471-fruits-4k-hd-wallpapers.fad2e6bb9addb228fc4a.jpg",
     "static/media/kisspng-online-shopping-mobile-shop-5b50b17cd0dfc6.png": "/glass-morphism/static/media/kisspng-online-shopping-mobile-shop-5b50b17cd0dfc6.2778564915320149728556.ff1d66784291a20a39ce.png",
@@ -8,11 +8,11 @@
     "static/media/Juicy Fruity Plain.otf": "/glass-morphism/static/media/Juicy Fruity Plain.fc6f4f217351d6096ca4.otf",
     "static/media/FreshFruitsFreshFruits-rPV9.otf": "/glass-morphism/static/media/FreshFruitsFreshFruits-rPV9.9c9205de4edaf3b91d03.otf",
     "index.html": "/glass-morphism/index.html",
-    "main.2529f5f1.css.map": "/glass-morphism/static/css/main.2529f5f1.css.map",
+    "main.dfd7ee3f.css.map": "/glass-morphism/static/css/main.dfd7ee3f.css.map",
     "main.ea768cb1.js.map": "/glass-morphism/static/js/main.ea768cb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2529f5f1.css",
+    "static/css/main.dfd7ee3f.css",
     "static/js/main.ea768cb1.js"
   ]
 }
